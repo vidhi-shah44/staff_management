@@ -1,2 +1,2 @@
 # staff_management
-Staff Management Syatem
+Staff Management System
